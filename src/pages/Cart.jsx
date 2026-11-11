@@ -155,7 +155,7 @@ const Cart = () => {
 
               <Link
                 to="/checkout"
-                className="mt-7 flex w-full items-center justify-center gap-2 rounded-xl bg-linear-to-r-to-r from-[#0066FF] to-[#0A1F44] px-5 py-4 text-sm font-extrabold text-white shadow-lg shadow-blue-900/20 transition-all duration-300 hover:-translate-y-0.5 hover:brightness-110"
+                className="mt-7 flex w-full items-center justify-center gap-2 rounded-xl bg-linear-to-r from-[#0066FF] to-[#0A1F44] px-5 py-4 text-sm font-extrabold text-white shadow-lg shadow-blue-900/20 transition-all duration-300 hover:-translate-y-0.5 hover:brightness-110"
               >
                 <Zap size={19} />
                 Proceed to Checkout
